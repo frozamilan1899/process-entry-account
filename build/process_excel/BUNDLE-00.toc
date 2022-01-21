@@ -1,0 +1,3 @@
+([('process_excel',
+   '/Users/woke/Desktop/minestory/workspace/python/process_entry_account/dist/process_excel',
+   'EXECUTABLE')],)
